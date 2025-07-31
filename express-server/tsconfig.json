@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "outDir": "dist",
+    "esModuleInterop": true,
+    "strict": true,
+    "strictNullChecks": true,
+  },
+  "include": ["src/**/*.ts"],
+}
